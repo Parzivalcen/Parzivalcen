@@ -4,24 +4,10 @@ I love to build things, specially for the web.
 Live long learner!!
 
 I also like to consider myself an athlete 🏃‍♂️
-<style>
-  .social{
-    width: 50px;
-    height: 50px;
-    border: 1px solid grey; 
-    border-radius: 10px;
-  }
-  .medium{
-    filter: invert(96%) sepia(96%) saturate(14%) hue-rotate(228deg) brightness(102%) contrast(100%);
-  }
-</style>
+
 ## 🌐Socials
-<a href="https://medium.com/@davidcendev">
-  <img class="social medium" src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" alt="">
-</a>
-<a href="https://twitter.com/davidcentzdev">
-  <img class="social" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="">
-</a>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/davidcentzdev) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@davidcendev) 
 
 # 💻Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
