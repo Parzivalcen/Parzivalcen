@@ -6,7 +6,7 @@ Live long learner!!
 I also like to consider myself an athlete 🏃‍♂️
 
 ## 🌐Socials
-[<img src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" width="50px" height="50px">](https://medium.com/@davidcendev)    [<img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" width="50px" height="50px">](https://twitter.com/davidcentzdev) 
+[<img src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" width="50px" height="50px" style="border: 1px solid grey; border-radius: 10px;">](https://medium.com/@davidcendev)    [<img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" width="50px" height="50px" style="border: 1px solid grey; border-radius: 10px;">](https://twitter.com/davidcentzdev) 
 
 # 💻Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
