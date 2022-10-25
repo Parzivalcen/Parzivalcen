@@ -3,7 +3,7 @@ I'm David, a web developer living in Paraguay,
 I love to build things, specially for the web. 
 Live long learner!!
 
-I also like to consider myself an athlete 🏃‍♂️
+I'm also an athlete 🏃‍♂️
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/davidcentzdev) 
